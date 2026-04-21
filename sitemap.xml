@@ -37,6 +37,41 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/childhood-adventures/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/ultimate-fort-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/retro-cereal-bowl-set/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/nostalgia-lunchbox/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/explorers-binoculars/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/the-secret-base-flag/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
