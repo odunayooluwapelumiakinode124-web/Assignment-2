@@ -1,0 +1,104 @@
+/*
+Theme Name:     Modern Econ
+Description:    economics child theme
+Author:         odunayooluwapelumiakinode124-web
+Template:       twentytwentyfive
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Roboto:wght@300;400;500&display=swap');
+
+/* General Body Styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f7f5;
+    color: #2c3e2f;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header Styling */
+header, .site-header {
+    background-color: #1b4332;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1, .site-title {
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    color: #f4d35e;
+    margin: 0;
+}
+
+/* Navigation Menu */
+nav, .main-navigation {
+    background-color: #2d6a4f;
+    padding: 10px;
+}
+
+nav a, .main-navigation a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 500;
+}
+
+nav a:hover, .main-navigation a:hover {
+    color: #f4d35e;
+}
+
+/* Main Content */
+main, .site-main {
+    padding: 30px;
+    background-color: #ffffff;
+}
+
+h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+    color: #1b4332;
+}
+
+p {
+    font-size: 1rem;
+    color: #344e41;
+}
+
+/* Buttons */
+button,
+.wp-block-button__link {
+    background-color: #40916c;
+    color: #ffffff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover,
+.wp-block-button__link:hover {
+    background-color: #2d6a4f;
+    color: #f4d35e;
+}
+
+/* Footer */
+footer, .site-footer {
+    background-color: #1b4332;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Links */
+a {
+    color: #2d6a4f;
+}
+
+a:hover {
+    color: #f4d35e;
+}

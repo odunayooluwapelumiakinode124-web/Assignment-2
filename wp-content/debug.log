@@ -11,3 +11,8 @@
 [24-Mar-2026 02:29:55 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-2/.wordpress/wp-admin/includes/ajax-actions.php on line 4587
 [24-Mar-2026 02:31:52 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-2/.wordpress/wp-admin/includes/ajax-actions.php on line 4587
 [24-Mar-2026 02:31:54 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-2/.wordpress/wp-admin/includes/ajax-actions.php on line 4634
+[20-Apr-2026 23:46:38 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[21-Apr-2026 01:24:29 UTC] PHP Fatal error:  Out of memory (allocated 35651584 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-2/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/cron.php on line 28
+[21-Apr-2026 01:24:29 UTC] PHP Fatal error:  Out of memory (allocated 35651584 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-2/.wordpress/wp-includes/sodium_compat/src/Core/Util.php on line 12
+[21-Apr-2026 01:24:35 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-2/.wordpress/wp-content/plugins/ecommerce-product-catalog/includes/customizer.php on line 222
+[21-Apr-2026 01:24:35 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-2/.wordpress/wp-includes/Requests/src/Cookie/Jar.php on line 32
